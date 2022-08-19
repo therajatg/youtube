@@ -22,5 +22,3 @@ function App() {
 }
 
 export default App;
-
-// 1st step => wrap the child components inside parent component (constant)
