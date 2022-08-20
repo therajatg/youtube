@@ -1,3 +1,4 @@
+/**
 const numArr = [2, 5, 3, 7, 9];
 
 Array.prototype.forEach = null;
@@ -11,3 +12,4 @@ if (!Array.prototype.forEach) {
 }
 
 numArr.forEach((num) => console.log(num * 3));
+**/
